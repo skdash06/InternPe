@@ -1,4 +1,4 @@
 # InternPe
-This is Codsoft project repository.
+This is InterPe project repository.
 <br>
 Author - Sandeep Kumar Dash
